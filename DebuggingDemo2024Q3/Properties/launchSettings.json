@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DebuggingDemo2024Q3": {
+      "commandName": "Project",
+      "commandLineArgs": "This is .NET"
+    }
+  }
+}
